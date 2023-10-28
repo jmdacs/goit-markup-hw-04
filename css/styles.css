@@ -186,6 +186,7 @@ button {
 
     background: var(--navyblue);
     text-align: center;
+    background-image: url("../images/people-office.jpg");
 }
 
 .hero-title { 
