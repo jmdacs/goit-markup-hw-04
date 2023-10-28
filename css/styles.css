@@ -397,6 +397,23 @@ button {
     /*padding-bottom: 32px;*/
 }
 
+.team-item-socmeds{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 10px;
+}
+
+.team-item-socmed{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 10px;
+    width: 44px;
+    height: 44px;
+}
+
 .menu{
     justify-content: center;
     align-items: center;
